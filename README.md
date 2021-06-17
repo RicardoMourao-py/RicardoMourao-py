@@ -8,7 +8,7 @@
 <!--     <br><br>
     I believe in a world where Milkshakes can solve any and all problems :grin: -->
     <br><br>
-    > The one who writes the code and doesn't leave comments has no love for his neighbor!! :v:
+    The one who writes the code and doesn't leave comments has no love for his neighbor ! :v:
   </samp>
 </p>
 
