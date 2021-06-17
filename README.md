@@ -6,9 +6,9 @@
     <br><br>
     I am a computer engineering student at Insper.
 <!--     <br><br>
-    I believe in a world where Milkshakes can solve any and all problems :grin:
+    I believe in a world where Milkshakes can solve any and all problems :grin: -->
     <br><br>
-    P.S. I do know that HTML is not a programming language! :v: -->
+    > The one who writes the code and doesn't leave comments has no love for his neighbor!! :v:
   </samp>
 </p>
 
