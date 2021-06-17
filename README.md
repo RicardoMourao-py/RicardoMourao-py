@@ -38,3 +38,12 @@
 
   
 </details>
+
+<p align="center"> 
+  <i> Let's connect and chat! :incoming_envelope: </i>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/feed/?trk=guest_homepage-basic_nav-header-signin"><img src="https://github.com/Quadrified/Quadrified/blob/master/assets/my_svgs/linkedin.svg" width="30px" alt="LinkedIn"></a> &nbsp; &nbsp;
+  <a href="https://www.instagram.com/ricardo_mrf13/"><img src="https://github.com/Quadrified/Quadrified/blob/master/assets/my_svgs/instagram.svg" width="30px" alt="Instagram"></a> &nbsp; &nbsp;
+</p>
