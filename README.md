@@ -21,4 +21,19 @@
   
   ![Ricardo Mourao github stats](https://github-readme-stats.vercel.app/api?username=RicardoMourao-py&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
+  ---
+
+### - Languages and Tools...
+
+
+
+  <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RicardoMourao-py&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+  
+
+---
+
+
+  
 </details>
