@@ -49,7 +49,7 @@
     <img src="linkedin.png" width="30px" alt="LinkedIn">
   </a>
   <a href="https://www.instagram.com/ricardo_mrf13/">
-    <img src="instagram.png" width="30px" alt="Instagram">
+    <img src="instagram2.png" width="30px" alt="Instagram">
   </a>
    
 </p>
