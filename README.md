@@ -44,11 +44,13 @@
 </p>
 
 <p align="center">
+  <ul>
   <a href="https://www.linkedin.com/feed/?trk=guest_homepage-basic_nav-header-signin">
     <img src="https://github.com/Quadrified/blob/master/assets/my_svgs/linkedin.svg" width="30px" alt="LinkedIn">
   </a>
   <a href="https://www.instagram.com/ricardo_mrf13/">
     <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fbr.pinterest.com%2Fpin%2F701717185685470793%2F&psig=AOvVaw1ya9jcG3j9uH6WmfbPlgw8&ust=1624060081978000&source=images&cd=vfe&ved=0CAoQjRxqFwoTCLjgyrPtn_ECFQAAAAAdAAAAABAI" width="30px" alt="Instagram">
   </a>
+    </ul>
 </p>
 [Instagram](https://www.google.com/url?sa=i&url=https%3A%2F%2Fbr.pinterest.com%2Fpin%2F701717185685470793%2F&psig=AOvVaw1ya9jcG3j9uH6WmfbPlgw8&ust=1624060081978000&source=images&cd=vfe&ved=0CAoQjRxqFwoTCLjgyrPtn_ECFQAAAAAdAAAAABAI)
