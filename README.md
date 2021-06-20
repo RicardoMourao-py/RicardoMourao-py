@@ -48,7 +48,7 @@
     <img src="linkedin.png" width="30px" alt="LinkedIn">
   </a>
   <a href="https://www.instagram.com/ricardo_mrf13/">
-    <img src="i.png" width="30px" alt="Instagram">
+    <img src="image-removebg-preview (12).png" width="30px" alt="Instagram">
   </a>
   <a href="https://twitter.com/ricardo_mrf13">
     <img src="z.png" width="30px" alt="Twitter">
