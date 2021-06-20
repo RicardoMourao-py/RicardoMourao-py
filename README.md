@@ -52,7 +52,7 @@
     <img src="i.png" width="30px" alt="Instagram">
   </a>
   <a href="https://twitter.com/ricardo_mrf13">
-    <img src="t.jpg" width="30px" alt="Twitter">
+    <img src="z.png" width="30px" alt="Twitter">
   </a>
    
 </p>
