@@ -44,7 +44,7 @@
 
 <p align="center">
 
-  <a href="https://www.linkedin.com/feed/?trk=guest_homepage-basic_nav-header-signin">
+  <a href="https://www.linkedin.com/in/ricardo-mour%C3%A3o-rodrigues-filho-0b75441b9/">
     <img src="linkedin.png" width="30px" alt="LinkedIn">
   </a>
   <a href="https://www.instagram.com/ricardo_mrf13/">
