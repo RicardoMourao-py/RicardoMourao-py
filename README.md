@@ -1,12 +1,10 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="30%">
+<p align="center"><img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" height=”80” width=”80”></p>
   <br><br>
+<p align="center">
   <samp>
     I'm Ricardo :wave:
     <br><br>
     I am a computer engineering student at <a href="https://www.insper.edu.br/">Insper.</a>
-<!--     <br><br>
-    I believe in a world where Milkshakes can solve any and all problems :grin: -->
     <br><br>
     The one who writes the code and doesn't leave comments has no love for his neighbor ! :v:
   </samp>
