@@ -9,32 +9,15 @@
   </samp>
 </p>
 
-<br>
-
-<details>
-  <p align="center">
-  <summary> <b> Things to know about me! </b> <i>(click to expand!)</i> </summary>
   
-  <br>
-  
-  ![Ricardo Mourao github stats](https://github-readme-stats.vercel.app/api?username=RicardoMourao-py&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
-
-  ---
-
-### - Languages ...
-
-
-
-  <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RicardoMourao-py&theme=react&layout=compact&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
-  
-
----
-</p>
-
-  
-</details>
-
+    
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=RicardoMourao-py&include_all_commits=true&count_private=true&show_icons=true&line_height=33&theme=yeblu" height="200"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RicardoMourao-py&layout=compact&hide=css,html&count_private=true&langs_count=8&theme=yeblu" alt="Most used Languages" height="200"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=RicardoMourao-py&count_private=true&theme=yeblu"  height="175"/>
+</div>
+    
+    
 <p align="center"> 
   <i> Let's connect and chat! :incoming_envelope: </i>
 </p>
