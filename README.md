@@ -1,4 +1,3 @@
-<p align="center"><img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" height=”80” width=”80”></p>
 <p align="center">
   <samp>
     I'm Ricardo :wave:
