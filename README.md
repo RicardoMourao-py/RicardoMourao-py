@@ -44,7 +44,7 @@
 <a href="https://kaggle.com/ricardofilho" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ricardofilho" height="30" width="40" /></a>
 <a href="https://instagram.com/ricardo_mrf13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ricardo_mrf13" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@ricardofilho1442" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@ricardofilho1442" height="30" width="40" /></a>
-<a href="https://www.cloudskillsboost.google/profile/badges" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="@ricardofilho1442" height="30" width="30" /></a>
+<a href="https://www.cloudskillsboost.google/public_profiles/6ecb900b-839b-437f-90ff-4e131da787da" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="@ricardofilho1442" height="30" width="30" /></a>
 </p>
  
 
